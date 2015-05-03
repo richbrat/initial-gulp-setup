@@ -1,0 +1,22 @@
+{
+  "name": "initial-gulp-setup",
+  "version": "0.0.1",
+  "author": "richbrat",
+  "homepage": "",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "",
+    "del": "~1.1.1",
+    "gulp": "",
+    "gulp-concat": "",
+    "gulp-connect": "",
+    "gulp-livereload": "",
+    "gulp-minify-css": "",
+    "gulp-postcss": "~5.1.3",
+    "gulp-sass": "",
+    "gulp-uglify": "",
+    "normalize.css": ""
+  }
+}
